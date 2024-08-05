@@ -130,8 +130,8 @@ public class CommonMethods extends steps.PackageIntiliazer {
 	 @DataProvider
 	    public Object[][] data(){
 	        Object[][] loginData = new Object[1][2];
-	        loginData[0][0] = "anjali96906@gmail.com";
-	        loginData[0][1] = "Singh@30";
+	        loginData[0][0] = "email@gmail.com";
+	        loginData[0][1] = "1234";
 //	        loginData[1][0] = "admin";
 //	        loginData[1][1] = "Hum@nhrm123";
 //	        loginData[2][0] = "admin";
